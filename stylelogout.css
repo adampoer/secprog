@@ -1,0 +1,11 @@
+body {
+    background: linear-gradient(rgba(0,0,0,0.75), rgba(0,0,0,0.75)),url(Home.png);
+    font-family: Assistant, sans-serif;
+    display: flex;
+    min-height: 90vh;
+    white-space: nowrap;
+  }
+
+.login-form {
+    color: #fff;
+}   
